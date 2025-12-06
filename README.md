@@ -50,7 +50,7 @@ A lightweight browser-based daily goals tracker that persists data using LocalSt
 
 ## 📄 Documentation
 
-Full documentation PDF: [document.pdf](https://github.com/user-attachments/files/23980758/document.pdf)
+Full documentation PDF: [documentation.pdf](https://github.com/yokeshbaskaran/aws-goals-tracker-ci-cd/blob/main/document.pdf)
 
 ## 📁 Code Repository
 
